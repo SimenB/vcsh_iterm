@@ -3,3 +3,4 @@
 !/.gitignore.d/iterm2
 !/.iterm2
 !/.iterm2/com.googlecode.iterm2.plist
+!/.iterm2_shell_integration.zsh
