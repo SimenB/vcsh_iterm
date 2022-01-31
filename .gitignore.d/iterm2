@@ -1,7 +1,5 @@
 *
-!/.gitignore.d
 !/.gitignore.d/iterm2
-!/.iterm2
 !/.iterm2/com.googlecode.iterm2.plist
 !/.iterm2/imgcat
 !/.iterm2/it2dl
